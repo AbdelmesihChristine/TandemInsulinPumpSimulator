@@ -144,7 +144,7 @@ Ensures:
 🧪 Using Terminal (qmake or cmake) 
 
 # Clone the repository 
-git clone https://github.com/abdelmesihchristine/Tandem-Insulin-Pump-Simulator.git 
+git clone https://github.com/abdelmesihchristine/TandemInsulinPumpSimulator.git 
 cd pumpsimulator 
 
 # QMake 
